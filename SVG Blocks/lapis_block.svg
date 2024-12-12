@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-16 -16.15 32 36" height="512" width="512">
+<defs><image id="s" width="16" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAJ1BMVEU3Z5IxYYsmWasrVo0gUJwdSpUgSooeQoUeQHwcOJAbNYgZNYQUMnG/fqakAAAAkElEQVR42g3LsRGCQBAAwDOiAStABzrAWB2ewArMmT/wDZl7Dvv48xhjx6cBAyyBomTzhX2anjZlWYI51i0pOci2laUh9JDXNtQsPWQd+nDmBnbWeinaB2QF0SD4hBzFH6J8IBFm5HcDiXYta3SQj8EIjg4qmkQNr4tvcSR8gUHVKN7BFb2y0h0u8/z9TcvyBxxhOAXulRujAAAAAElFTkSuQmCC" style="image-rendering:pixelated"/></defs>
+<g id="g">
+<use href="#s" transform="translate(-8, -16) matrix(1, .5, -1, .5, 8, 0)" filter="brightness(.92)"/>
+<use href="#s" transform="matrix(1, 0.5, 0, 1.23168, -16, -8)" filter="brightness(.74)"/>
+<use href="#s" transform="matrix(1, -0.5, 0, 1.23168, 0, 0)" filter="brightness(.55)"/>
+</g>
+<use href="#g"/>
+</svg>
