@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="-16 -16.15 32 36" height="512" width="512">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-18 -16.14656 36 36" width="300" height="300">
 <defs><image id="s" width="16" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABl0lEQVQ4EQXBgaHcNgwFMDxKvp8ukwkyY9dtzrbIAvvfP79nBoCgVlmrzIznPT57GbzPcfqAJCplQ8K1twjNK+73libF6aNqW1fpe1QFzLAlnh5zXmlmRqMgsau8Q08z1Cprh9PG2Cuxr9LdWmvMDFWuiqeHGaAgzjvMMOwxlqKWSqzh7/2YafeBIvy6NnjOq4eq0mfsXcvbRxKnx3T7uRZoAfD0EZGUyugen2vbPS0V00DEaSI+tdz9GNFhFakSBN/nsUc578swuHaB52292rW25zQzzuC0CknsvWzYe2nj/r68mCHxPC2hqqxVxoggknK/j017z5geK2GGBIBETzsPkF0YP8Ve2z7nqERXzBnEr2tL4r/vX3JZYn3KDOe8OnzvNsOeji4q4yTgOa9OSW1XRRKnmyEpu1DxnrZhhkaC0D1Gg6ot53G/rWckRJiosLNLZUClvN3Wz+Xct2m+3y/G7biyxaihrqgu24yGwfN1EnoYJAQp/2RhnOb06O+xNxsIoT+XhZVYKW+3NkqM0afNjEGqvMP/JIsZ4BY+9IwAAAAASUVORK5CYII=" style="image-rendering:pixelated"/></defs>
 <g id="g">
 <use href="#s" transform="translate(-8, -16) matrix(1, .5, -1, .5, 8, 0)" filter="brightness(.92)"/>

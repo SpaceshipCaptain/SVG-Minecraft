@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="-16 -16.15 32 36" height="512" width="512">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-18 -16.14656 36 36" width="300" height="300">
 <defs><image id="s" width="16" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEXm4ubZ2NnIyci6u8CprKmLjYt7fYNiZWJ6sU8KAAAAfklEQVR42g3KMRKDIBAF0L+QpGYXJ2mBdbRVcLSHnCFHiDcg14+vfgA5gJ0F5Si0xR1MhYNtM0TeVXLZ4cYWfM0PkGZ3a/EFw0Sp+Rl2ESN+PDAkTqtpE4Q1iy5P8NZEha/sakIsE0yQzazDARs1+GoP3EtijTrh07+/fvbzD/ctEPz876ZoAAAAAElFTkSuQmCC" style="image-rendering:pixelated"/></defs>
 <g id="g">
 <use href="#s" transform="translate(-8, -16) matrix(1, .5, -1, .5, 8, 0)" filter="brightness(.92)"/>

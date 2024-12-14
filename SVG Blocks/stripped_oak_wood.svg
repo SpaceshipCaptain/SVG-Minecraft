@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="-16 -16.15 32 36" height="512" width="512">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-18 -16.14656 36 36" width="300" height="300">
 <defs><image id="s" width="16" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAb1BMVEXBombCoWa/n2O/nmK/nmHAnWK+nV+9nF+8m126l1q5lVi2k1izk1i2klW0kVizkFewjlWujlKtjVetjVKsi1KniU+jg0mjgkmjgUqigUmigEuggEidgEebfEeafEWZfEObekWYe0WYekSTdUSRdUHJhwd1AAAAqElEQVR42g3DS07DMBQAwPFzfk0EZcENuP/J2BSVNH8bRpr81dXW/cp5kIcppqCH1F5OujF2PlLVKD1jpHBjUsDJHCfMN4WmfvuMcd2W+aSe5fBGGKmUwthnr6CvGv/PHm3sr6wme3tWHvmIblvbyJjMtG2knlsqTV8u0RL70wJ60zmsVxje7Y60mQzDvUSXL0lqPJpt4ArjFjSHBuvPGHWZFw78ejz5A6qfR5OHsZUOAAAAAElFTkSuQmCC" style="image-rendering:pixelated"/></defs>
 <g id="g">
 <use href="#s" transform="translate(-8, -16) matrix(1, .5, -1, .5, 8, 0)" filter="brightness(.92)"/>
